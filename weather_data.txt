@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+    Weather Stats for - RAIPUR  || 23 Jun 2021 | 07:07:26 PM"
+    -------------------------------------------------------------
+    Current temperature is: 25.08 deg C"
+    Current weather desc  :", haze
+    Current Humidity      :", 100, '%'
+    Current wind speed    :", 5.66, 'kmph'
